@@ -128,3 +128,11 @@ Before finalizing, ensure that every section is clear, accurate, and follows the
 
 ---
 ```
+
+## Git Management
+
+### Generate commit messages
+
+```md
+Based on the latest changes discussed about "<CONTEXT>", please generate a commit message in English that follows the Conventional Commits format. The message should clearly and concisely summarize the modifications, including the appropriate commit type (e.g., feat, fix, docs, etc.) to reflect the changes accurately.
+```
