@@ -5,7 +5,7 @@ My AI prompts to use with the agent of Cursor, Windsurf, etc
 
 ### Generate high level documentation for a project:
 
-- General projects
+#### General projects
 ```
 # Task Overview
 
@@ -38,7 +38,7 @@ You are an expert in code analysis and project documentation. Your task is to do
 - If any uncertainties arise regarding the content or required format, request clarification from the user.
 ```
 
-- NodeJS projects
+#### NodeJS projects
 ```
 **Objective:**  
 Analyze the entire codebase of a software project to create a comprehensive, modular, and developer-friendly set of documentation files within a `/docs` folder at the root of the repository.
